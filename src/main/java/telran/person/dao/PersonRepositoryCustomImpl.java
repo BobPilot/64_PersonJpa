@@ -1,7 +1,6 @@
 package telran.person.dao;
 
 import telran.person.domain.Person;
-import telran.person.dto.CompanyEmployees;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
